@@ -25,4 +25,4 @@ myNewArr=newArr.map(Number);
 console.log(myNewArr);
 
 let missingNumber=missNum(myNewArr,myNewArr.length);
-console.log(`your missing nuber this ${missingNumber}`);
+console.log(`your missing number this ${missingNumber}`);
