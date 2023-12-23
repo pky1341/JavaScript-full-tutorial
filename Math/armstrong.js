@@ -1,4 +1,4 @@
-const input=require("prompt-sync")({sigint:true});
+
 let n=new Number(input('Enter a number:-'));
 let sum=0,temp,r;
 console.log(typeof n);
