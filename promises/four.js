@@ -1,6 +1,5 @@
 /*Write a function that returns a Promise. Use this function to fetch data from two different APIs sequentially. Log the results of both API calls after they are completed.*/
 
-var fetch = require("node-fetch");
 function apiSeq() {
   firstAPI("https://api.github.com/users/AayanshSingh07");
   secondAPI("https://api.github.com/users/pky1341");
