@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "javascript-full-tutorial",
+  "description": "this tutorial aims to teach complete JavaScript tutorials from beginner to master level.  I hope you enjoy reading it.",
+  "version": "1.0.0",
+  "main": "prim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pky1341/JavaScript-full-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pky1341/JavaScript-full-tutorial/issues"
+  },
+  "homepage": "https://github.com/pky1341/JavaScript-full-tutorial#readme"
 }
