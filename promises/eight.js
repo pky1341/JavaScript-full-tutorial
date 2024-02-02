@@ -1,0 +1,3 @@
+/*
+Write an async function that uses setTimeout to introduce delays between different asynchronous operations. Ensure that the operations are executed in the correct order and handle any errors that may occur.
+*/
